@@ -501,6 +501,4 @@ This project is available for educational and commercial use.
 - FastAPI for the excellent async framework
 - React team for the frontend library
 
----
 
-**Note**: Remember to keep your API keys secure and never commit them to version control. Use environment variables for all sensitive configuration.
